@@ -1,1 +1,1 @@
-![Computer GIF](computer.webp)
+![Computer GIF](giphy.webp)
